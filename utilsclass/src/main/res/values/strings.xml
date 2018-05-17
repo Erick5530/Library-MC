@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RUNZA</string>
+    <string name="version">dr_v2.0.0</string>
+
+    <!-- Login -->
+    <string name="logo">logo</string>
+    <string name="welcome">BIENVENIDO</string>
+    <string name="prompt_user">Usuario</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="sign_in">ENTRAR</string>
+    <string name="sign_out">cerrar sesión</string>
+
+</resources>
